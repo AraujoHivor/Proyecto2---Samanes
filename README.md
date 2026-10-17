@@ -34,3 +34,17 @@ Se exploraron y compararon tres plantillas gratuitas de HTML5 UP evaluando su es
 **Plantilla seleccionada: Twenty**
 
 Se escogió "Twenty" porque su portada y sus secciones permiten presentar de manera ordenada el tema, los aspectos que se investigarán, la metodología y el compromiso de privacidad. Su menú superior facilita el acceso a las partes del sitio y su diseño adaptable permite consultarlo desde celulares o computadoras. Además, cuenta con recursos que facilitan la personalización sin tener que comenzar desde cero.
+---
+
+## 4. Despliegue
+
+* **URL del repositorio:** [https://github.com/AraujoHivor/Proyecto2---Samanes.git](https://github.com/AraujoHivor/Proyecto2---Samanes.git)
+* **URL de la página publicada:** [https://araujohivor.github.io/Proyecto2---Samanes/](https://araujohivor.github.io/Proyecto2---Samanes/)
+
+---
+
+## Bibliografía
+
+* HTML5 UP. (s. f.). *Twenty*. [https://html5up.net/twenty](https://html5up.net/twenty)
+* HTML5 UP. (s. f.). *Prologue*. [https://html5up.net/prologue](https://html5up.net/prologue)
+* HTML5 UP. (s. f.). *Highlights*. [https://html5up.net/highlights](https://html5up.net/highlights)
