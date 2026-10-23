@@ -1,50 +1,35 @@
-# Proyecto02: Zonas de calistenia y trote del Parque Samanes
-**Integrantes**: Hivor Araujo Párraga y Franklin Rosado Chamba
+# Proyecto 02: Zonas de calistenia y trote del Parque Samanes
 
-Desarrollar un sitio web que comunique la interacción entre la comunidad y una actividad social, cultural, artística o deportiva mediante el uso de tecnologías nativas de la web.
+**Integrantes:** Hivor Araujo Párraga y Franklin Rosado Chamba  
+**Materia:** Desarrollo de Aplicaciones Web y Móviles (SOFG1006)
+
+## Descripción del Proyecto
+Desarrollar un sitio web que comunique la interacción entre la comunidad y una actividad social, cultural, artística o deportiva mediante el uso de tecnologías nativas de la web. En este caso, el proyecto se enfoca en el uso de las zonas de calistenia y trote del Parque Samanes en Guayaquil, analizando cómo las personas utilizan estos espacios para ejercitarse y recrearse.
+
+## Enlaces
+* **Página Publicada (GitHub Pages):** [https://araujohivor.github.io/Proyecto2---Samanes/](https://araujohivor.github.io/Proyecto2---Samanes/)
+* **Repositorio:** [https://github.com/AraujoHivor/Proyecto2---Samanes](https://github.com/AraujoHivor/Proyecto2---Samanes)
 
 ## 1. Análisis y Organización del Contenido
-Para organizar la información en el sitio web, se definieron las siguientes secciones:
+Para organizar la información en el sitio web, se definieron las siguientes secciones principales:
 
-|     Sección      |     Propósito     |     Datos o contenido     |
-|       :---       |        :---       |            :---           |
-|    **Inicio**    | Presentar el nombre y el propósito del proyecto. | Nombre del proyecto, Parque Samanes y breve explicación del tema. |
-| **La actividad** | Explicar qué actividad comunitaria se estudia. | Uso de las zonas de calistenia y trote para hacer ejercicio y recrearse. |
-| **Qué queremos conocer** | Indicar los aspectos que se investigarán. | Frecuencia de visita, horarios, tipos de actividad y percepción de las instalaciones. |
-| **Metodología**  | Explicar cómo se recopilará la información. | Observación general y entrevistas breves a usuarios voluntarios. |
-| **Opiniones y propuestas** | Resumir los temas de interés para los participantes. | Aspectos positivos, dificultades y sugerencias de mejora. |
-| **Privacidad** | Explicar el tratamiento responsable de la información. | Consentimiento, anonimato y uso académico de las respuestas. |
-| **Resultados** | Presentar hallazgos cuando existan datos reales. | Tablas, gráficos y conclusiones que se elaborarán después de recopilar las respuestas. |
+| Sección | Propósito | Contenido |
+| :--- | :--- | :--- |
+| **Inicio** | Presentar el proyecto. | Nombre, tema y breve introducción al Parque Samanes. |
+| **La actividad** | Explicar el tema estudiado. | Uso de las zonas de calistenia y trote para ejercitarse. |
+| **Qué queremos conocer** | Presentar los aspectos investigados. | Frecuencia, horarios, actividades y percepción de los usuarios. |
+| **Metodología** | Explicar la recopilación de información. | Observaciones en el parque y entrevistas breves a voluntarios. |
+| **Resultados** | Mostrar los hallazgos. | Gráficos con porcentajes y explicación de los datos recopilados (Fase de recolección de datos por finalizar). |
+| **Galería y recursos** | Dar contexto visual. | Fotografías, video de referencia y mapa de ubicación. |
+| **Tu opinión** | Mostrar un ejemplo de participación. | Formulario demostrativo. |
+| **Conclusiones** | Resumir los hallazgos. | Conclusiones sustentadas en las respuestas reales. |
 
----
+## 2. Desarrollo e Implementación (Sprint 2)
+Durante esta fase se realizaron las siguientes actividades:
+* **Estructura HTML:** Se adaptó la plantilla *Twenty* de HTML5 UP, incorporando contenido real, eliminando secciones de demostración innecesarias y manteniendo una correcta semántica web con enlaces funcionales.
+* **Personalización CSS:** Se modificaron los estilos visuales (colores, tipografías, fondos y márgenes) para alinear el diseño con la temática deportiva del proyecto.
+* **Multimedia:** Integración de fotografías (propias y externas), un video de referencia de YouTube y un mapa de ubicación embebido.
+* **Despliegue:** Publicación de la landing page final a través de GitHub Pages.
 
-## 2. Comparación de Plantillas
-Se exploraron y compararon tres plantillas gratuitas de HTML5 UP evaluando su estructura, navegación y diseño:
-
-| Plantilla | Estructura | Navegación | Diseño | Adaptabilidad | Facilidad de Personalización |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Twenty** | Portada, secciones y páginas adicionales. | Menú superior y enlaces a secciones. | Visual, con banner amplio y bloques diferenciados. | Adaptable a distintos tamaños de pantalla. | Alta: incluye componentes y recursos reutilizables. |
-| **Prologue** | Página única con secciones verticales. | Barra lateral fija. | Minimalista y con énfasis en el contenido. | Adaptable a móviles y escritorio. | Media-alta: clara, aunque habría que ajustar la navegación lateral. |
-| **Highlights** | Página única con bloques breves. | Navegación sencilla y recorrido lineal. | Minimalista y ligera. | Adaptable a distintos dispositivos. | Alta: sencilla de cambiar, pero ofrece menos variedad de bloques. |
-
----
-
-## 3. Decisiones Tomadas (Plantilla Seleccionada)
-
-**Plantilla seleccionada: Twenty**
-
-Se escogió "Twenty" porque su portada y sus secciones permiten presentar de manera ordenada el tema, los aspectos que se investigarán, la metodología y el compromiso de privacidad. Su menú superior facilita el acceso a las partes del sitio y su diseño adaptable permite consultarlo desde celulares o computadoras. Además, cuenta con recursos que facilitan la personalización sin tener que comenzar desde cero.
----
-
-## 4. Despliegue
-
-* **URL del repositorio:** [https://github.com/AraujoHivor/Proyecto2---Samanes.git](https://github.com/AraujoHivor/Proyecto2---Samanes.git)
-* **URL de la página publicada:** [https://araujohivor.github.io/Proyecto2---Samanes/](https://araujohivor.github.io/Proyecto2---Samanes/)
-
----
-
-## Bibliografía
-
-* HTML5 UP. (s. f.). *Twenty*. [https://html5up.net/twenty](https://html5up.net/twenty)
-* HTML5 UP. (s. f.). *Prologue*. [https://html5up.net/prologue](https://html5up.net/prologue)
-* HTML5 UP. (s. f.). *Highlights*. [https://html5up.net/highlights](https://html5up.net/highlights)
+## 3. Plantilla Utilizada
+Se utilizó la plantilla gratuita **Twenty** de [HTML5 UP](https://html5up.net/twenty), elegida por su estructura clara de bloques, navegación superior sencilla y adaptabilidad a dispositivos móviles.
