@@ -33,3 +33,17 @@ Durante esta fase se realizaron las siguientes actividades:
 
 ## 3. Plantilla Utilizada
 Se utilizó la plantilla gratuita **Twenty** de [HTML5 UP](https://html5up.net/twenty), elegida por su estructura clara de bloques, navegación superior sencilla y adaptabilidad a dispositivos móviles.
+
+## 4. Resultados de las Entrevistas
+
+Tras encuestar a los visitantes del parque, obtuvimos los siguientes hallazgos principales:
+* **Perfil de usuario:** Principalmente jóvenes de 18 a 29 años.
+* **Frecuencia y horario:** Asisten desde varias veces por semana hasta ocasionalmente, con picos de asistencia en la mañana 09:00-12:00 y tarde entre las 15:00-18:00.
+* **Actividades:** Trote, caminata y ejercicios de acondicionamiento físico.
+* **Percepción general:** 70% de satisfacción con el estado de las instalaciones.
+* **Oportunidades de mejora:** Los usuarios sugieren mayor mantenimiento de las pistas, control estricto de limpieza, mayor seguridad y la organización de eventos comunitarios.
+
+## 5. Conclusiones
+Tras analizar las entrevistas, concluimos que el Parque Samanes es un punto de encuentro vital para jóvenes y adultos que buscan mejorar su salud física y mental mediante el trote y la calistenia.
+
+Los visitantes perciben las instalaciones como buenas y destacan la unión comunitaria. Sin embargo, la investigación reveló áreas de oportunidad: los usuarios solicitan un mejor mantenimiento en la limpieza de basura y heces de mascotas, mayor seguridad y la organización de eventos que fomenten aún más la integración.
